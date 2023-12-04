@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balaji Ummadisetty</h1>
 
 <h3 align="center">A passionate developer from India</h3>
-<img align="right"  src = " https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw0maWZ49OQS6upnPpZnT4MT&ust=1701770198208000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCM_pLC9YIDFQAAAAAdAAAAABAE">
+<img align = "right" width=400 src = https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw0maWZ49OQS6upnPpZnT4MT&ust=1701770198208000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCM_pLC9YIDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji-ummadisetty&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-ummadisetty" /> </p>
 
