@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji-ummadisetty&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-ummadisetty" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaji-ummadisetty" alt="balaji-ummadisetty" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/balajiu7995" target="blank"><img src="https://img.shields.io/twitter/follow/balajiu7995?logo=twitter&style=for-the-badge" alt="balajiu7995" /></a> </p>
-
 - 🌱 I’m currently learning **Django , SQl**
 
 - 💬 Ask me about **C++,Data structures and Algorithms,Python**
